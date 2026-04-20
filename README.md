@@ -1,6 +1,20 @@
 # Sched
 
-Self-hosted scheduling poll. Like Doodle, but you own your data.
+Self-hosted scheduling poll. Like Doodle and Chouseisan, but you own your data.
+
+## Screenshots
+
+### Create a poll
+
+Pick dates from the calendar, set times, and share.
+
+![Create](docs/create.png)
+
+### View responses
+
+See who's available at a glance. Best date highlighted automatically.
+
+![Poll](docs/poll.png)
 
 ## Quick Start
 
