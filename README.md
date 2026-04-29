@@ -1,6 +1,6 @@
 # Sched
 
-Self-hosted scheduling poll. Like Doodle and Chouseisan, but you own your data.
+Self-hosted scheduling poll. Like Doodle, but self-hosted. You own your data.
 
 ## Screenshots
 
